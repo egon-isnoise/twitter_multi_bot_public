@@ -1,0 +1,4 @@
+tweepy
+emojis
+numpy
+pyparsing
